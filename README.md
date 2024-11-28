@@ -1,0 +1,1 @@
+<p>En este proyecto creamos una página para apuntar las actividades que tienes que realizar durante el día. Se pueden añadir actividades, marcar las realizadas y eliminar actividades.</p>
