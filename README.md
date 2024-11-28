@@ -1,1 +1,2 @@
-<p>En este proyecto creamos una página para apuntar las actividades que tienes que realizar durante el día. Se pueden añadir actividades, marcar las realizadas y eliminar actividades.</p>
+<p>En este proyecto creamos una página para apuntar las actividades que tienes que realizar durante el día. Se pueden añadir actividades, marcar las realizadas y eliminar actividades.</p><br>
+<p>Mira el resultado aquí: <a href="https://ireneac98.github.io/app_actividades/">página de actividades</a></p>
